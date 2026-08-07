@@ -1,0 +1,15 @@
+*.pdf
+
+*.log
+logs/
+tmp/
+temp/
+outputs/
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+.env
+
+pdf/

@@ -1,0 +1,2206 @@
+{
+    "entities": [
+        {
+            "entityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "entityName": "俄罗斯",
+            "entityOntologyName": "国家",
+            "attributes": {
+                "department": "俄罗斯联邦国防部",
+                "spokesman": "伊戈尔·科纳申科夫少将"
+            }
+        },
+        {
+            "entityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "entityName": "乌克兰",
+            "entityOntologyName": "国家",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_0683681c-8da7-4528-8fe5-eb2903dd8f68",
+            "entityName": "伊戈尔·科纳申科夫少将",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "position": "俄罗斯联邦国防部新闻发言人"
+            }
+        },
+        {
+            "entityId": "entity_uuid_d0b31e58-0bd8-46fc-b963-d7245b7865ac",
+            "entityName": "俄罗斯联邦国防部",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_d6185953-28aa-4aba-90ce-fb1a3f1c309f",
+            "entityName": "赫尔松州",
+            "entityOntologyName": "地理区域",
+            "attributes": {
+                "status": "全境被俄军控制",
+                "protection": "靠近克里米亚半岛"
+            }
+        },
+        {
+            "entityId": "entity_uuid_3c769cd6-d4b8-4ba9-9b98-122040188b03",
+            "entityName": "马里乌波尔",
+            "entityOntologyName": "地理区域",
+            "attributes": {
+                "situation": "当地政府实际瘫痪、民族主义者将平民扣为人质"
+            }
+        },
+        {
+            "entityId": "entity_uuid_d4aa2812-acec-4942-8d60-868ad87ec330",
+            "entityName": "米哈伊尔·米津采夫上将",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "position": "俄罗斯国家防御指挥中心负责人"
+            }
+        },
+        {
+            "entityId": "entity_uuid_6d8fb2f1-29df-401f-9b66-75ff52a9cd40",
+            "entityName": "俄罗斯国家防御指挥中心",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "entityName": "美国",
+            "entityOntologyName": "国家",
+            "attributes": {
+                "行动": "暂停对乌克兰军事支持、禁止分享情报"
+            }
+        },
+        {
+            "entityId": "entity_uuid_3cd161c1-1768-4b6b-bf93-ffbe0936f4a2",
+            "entityName": "英国政府通信总部",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "指令": "禁止向乌克兰分享来自美国的军事情报"
+            }
+        },
+        {
+            "entityId": "entity_uuid_a0dfd9b3-7508-40c0-b402-faeb568072ae",
+            "entityName": "军情六处",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "指令": "禁止向乌克兰分享来自美国的军事情报"
+            }
+        },
+        {
+            "entityId": "entity_uuid_89520ec3-1875-4066-92cc-b4bb32cb0e72",
+            "entityName": "英国",
+            "entityOntologyName": "国家",
+            "attributes": {
+                "行动": "根据美国命令禁止分享军事情报"
+            }
+        },
+        {
+            "entityId": "entity_uuid_ed28efa4-2b53-43c9-b19f-15ce7772bdeb",
+            "entityName": "中国",
+            "entityOntologyName": "国家",
+            "attributes": {
+                "角色": "不是乌克兰危机的制造者，也不是当事方",
+                "立场": "支持一切有利于和平解决危机的努力"
+            }
+        },
+        {
+            "entityId": "entity_uuid_e7f54056-baf0-48ed-863d-0ecb5f038af7",
+            "entityName": "林剑",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "外交部发言人"
+            }
+        },
+        {
+            "entityId": "entity_uuid_338df9f4-5bb3-445e-bf5b-d6bbac97822a",
+            "entityName": "外交部",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_658f1bb3-9c2f-44d1-9cab-128172d66328",
+            "entityName": "什梅加尔",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "乌克兰总理"
+            }
+        },
+        {
+            "entityId": "entity_uuid_8ec6d600-c1e1-46d9-a7d4-ed4e46165f09",
+            "entityName": "乌克兰政府",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "国家": "乌克兰"
+            }
+        },
+        {
+            "entityId": "entity_uuid_221a0442-9719-4c98-9814-7e50cff3c577",
+            "entityName": "乌克兰武装部队总司令",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "职务": "总司令",
+                "所属组织": "乌克兰武装部队"
+            }
+        },
+        {
+            "entityId": "entity_uuid_dc41e051-ab72-4a7e-88f6-30889dbd3a76",
+            "entityName": "乌克兰武装部队",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "简称": "乌军",
+                "所属国家": "乌克兰"
+            }
+        },
+        {
+            "entityId": "entity_uuid_e47b6052-7aa1-4edf-ab37-d9d6d2c0e7b0",
+            "entityName": "瑟尔斯基",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职务": "乌克兰武装部队总司令"
+            }
+        },
+        {
+            "entityId": "entity_uuid_8314d955-18b1-452c-bb18-20fb6f63914a",
+            "entityName": "顿涅茨克地区",
+            "entityOntologyName": "地理区域",
+            "attributes": {
+                "重要地点": "阿夫杰耶夫卡"
+            }
+        },
+        {
+            "entityId": "entity_uuid_1bb300a0-0dfa-445f-b6c5-b2ff91437bd6",
+            "entityName": "乌克兰最高拉达（议会）",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "决定内容": "通过乌克兰全境进入战时状态的决定"
+            }
+        },
+        {
+            "entityId": "entity_uuid_905bf9cf-28e7-408d-af92-fd5d0bd75b9a",
+            "entityName": "首都基辅",
+            "entityOntologyName": "地理区域",
+            "attributes": {
+                "地铁使用情况": "首都基辅地铁免费开放，地铁站将作为防空洞使用"
+            }
+        },
+        {
+            "entityId": "entity_uuid_4bdfea9c-89a7-4072-8bee-3935fca08149",
+            "entityName": "普京",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职务": "总统",
+                "行动": "签署法令"
+            }
+        },
+        {
+            "entityId": "entity_uuid_d5a761f6-8d35-4099-9278-d99befd058d4",
+            "entityName": "泽连斯基",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "乌总统",
+                "任务": "今年结束冲突"
+            }
+        },
+        {
+            "entityId": "entity_uuid_142d5eaf-acf4-401f-ae3f-754cae741933",
+            "entityName": "叶尔马克",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "乌克兰总统办公室主任"
+            }
+        },
+        {
+            "entityId": "entity_uuid_2b02ab0c-6d5b-402b-8cf1-6658714fd6c2",
+            "entityName": "乌克兰总统办公室",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_e4802682-af04-4173-adcc-3c64f6dd40da",
+            "entityName": "尤利娅·斯维里坚科",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "第一副总理、经济部长"
+            }
+        },
+        {
+            "entityId": "entity_uuid_811de30a-c456-411f-90c1-fe25fa328ad0",
+            "entityName": "乌梅罗夫",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "乌克兰国防部长"
+            }
+        },
+        {
+            "entityId": "entity_uuid_befb6175-654c-4b70-9d16-032b10ddf8ea",
+            "entityName": "乌克兰国防",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_eec94d71-7c63-46cf-9ad8-45e70a56bf44",
+            "entityName": "安德烈·科瓦连科",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "乌克兰国家安全与国防委员会反虚假信息中心主任"
+            }
+        },
+        {
+            "entityId": "entity_uuid_db4ad2d3-78b5-4073-9285-8bfa4b38a726",
+            "entityName": "乌克兰国家安全与国防委员会反虚假信息中心",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_a8e03ee0-0970-46de-8967-d208100ad9ae",
+            "entityName": "乌政府",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "决策": "批准与美国签署矿产框架协议"
+            }
+        },
+        {
+            "entityId": "entity_uuid_c2474fce-9811-4ea1-9ce6-4817065e4341",
+            "entityName": "华尔兹",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "美国总统国家安全事务助理"
+            }
+        },
+        {
+            "entityId": "entity_uuid_598a478d-93a3-4d81-a3c5-5e34782543da",
+            "entityName": "美国国家安全事务助理办公室",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "国家": "美国"
+            }
+        },
+        {
+            "entityId": "entity_uuid_804dc968-1636-4bfa-b2a6-962b7fc4925b",
+            "entityName": "瑟比加",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职务": "乌克兰外交部长"
+            }
+        },
+        {
+            "entityId": "entity_uuid_2329c6ec-a102-47c8-9ad2-3f266353645c",
+            "entityName": "乌克兰外交部",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_60cce357-2b38-402d-8a28-fcd16fe2e829",
+            "entityName": "鲁比奥",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职务": "美国国务卿"
+            }
+        },
+        {
+            "entityId": "entity_uuid_d4506e89-f705-4866-8933-70cb76cdc269",
+            "entityName": "美国国务院",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_354dacf9-788a-4392-b1d6-9f32716291fa",
+            "entityName": "斯特凡丘克",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职务": "乌克兰最高拉达（议会）议长"
+            }
+        },
+        {
+            "entityId": "entity_uuid_a66e2dde-5508-48c4-8896-5c9a7bc23227",
+            "entityName": "贝森特",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职务": "美国财政部长"
+            }
+        },
+        {
+            "entityId": "entity_uuid_eaf21ea3-0856-4281-affe-45446ec4bec6",
+            "entityName": "美国财政部",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_66e5ece1-9a38-4cc1-ab21-1cb52cab8b14",
+            "entityName": "凯洛格",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职务": "美国政府乌克兰和俄罗斯问题特使"
+            }
+        },
+        {
+            "entityId": "entity_uuid_983b5442-0408-47c0-81d1-c14a0cb10677",
+            "entityName": "欧洲",
+            "entityOntologyName": "国家",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_c0306f80-7e3b-434e-8c04-c561a05ae025",
+            "entityName": "乌沙科夫",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "俄罗斯总统助理"
+            }
+        },
+        {
+            "entityId": "entity_uuid_685d6ce7-7384-422f-ad1c-03aa5ed412a6",
+            "entityName": "俄罗斯代表团",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_772161e3-873f-4f5c-b520-6488bd60d97b",
+            "entityName": "基思·凯洛格",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "美国政府乌克兰和俄罗斯问题特使"
+            }
+        },
+        {
+            "entityId": "entity_uuid_5962e4c6-928e-4f73-89ca-1b5b8dfa1f91",
+            "entityName": "美国代表团",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_bc10f1de-3e66-4ed2-b5f3-b2e439e7334e",
+            "entityName": "卡娅·卡拉斯",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "欧盟外交与安全政策高级代表"
+            }
+        },
+        {
+            "entityId": "entity_uuid_b9915c7d-4792-4b3b-b644-151528ece6e8",
+            "entityName": "欧盟",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_3c4b8f35-a75b-4c05-909b-da74252e73a1",
+            "entityName": "未明确的敌对国",
+            "entityOntologyName": "国家",
+            "attributes": {
+                "描述": "未明确提到，但可以推测存在冲突"
+            }
+        },
+        {
+            "entityId": "entity_uuid_7a37a20d-0cc3-495d-bac5-30e1f8651270",
+            "entityName": "朝鲜",
+            "entityOntologyName": "国家",
+            "attributes": {
+                "派遣士兵": "参与俄作战",
+                "士兵数量": "约1.1万名"
+            }
+        },
+        {
+            "entityId": "entity_uuid_5bf0c05f-2e80-4e58-a614-6377f08b92ed",
+            "entityName": "北约",
+            "entityOntologyName": "国家",
+            "attributes": {
+                "提议": "关闭乌克兰领空"
+            }
+        },
+        {
+            "entityId": "entity_uuid_84852557-3214-408c-8893-738224f6dd7c",
+            "entityName": "俄国防部",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "行动": "在乌克兰地区发起特别军事行动"
+            }
+        },
+        {
+            "entityId": "entity_uuid_990167e8-0073-4853-8a39-37a50bcebf07",
+            "entityName": "俄军",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "损失": "1351名军事人员死亡，3825人受伤"
+            }
+        },
+        {
+            "entityId": "entity_uuid_392537a1-5dc7-4996-b33d-55d1b5958060",
+            "entityName": "谢尔盖·鲁德斯科伊",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "角色": "俄罗斯总参谋部作战总局负责人"
+            }
+        },
+        {
+            "entityId": "entity_uuid_0f281497-1101-4d3c-bb17-5477567da25b",
+            "entityName": "俄罗斯总参谋部作战总局",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_c9da65d3-9610-4a05-a865-9f1662e5e5c0",
+            "entityName": "里亚布科夫",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "俄罗斯外交部副部长"
+            }
+        },
+        {
+            "entityId": "entity_uuid_f26aed4c-555c-4a93-8b39-2d931cfb30b9",
+            "entityName": "俄罗斯外交部",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_acbca798-964c-462f-a20c-95968fbca42c",
+            "entityName": "阿纳托利·安东诺夫",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "前任俄驻美大使"
+            }
+        },
+        {
+            "entityId": "entity_uuid_00e6a198-814b-47fb-a128-f092d58c8f55",
+            "entityName": "沙特阿拉伯",
+            "entityOntologyName": "国家",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_6470003d-5c62-4cf5-9492-d9750cbceaff",
+            "entityName": "北约国家",
+            "entityOntologyName": "国家",
+            "attributes": {
+                "意图": "在俄乌冲突地区部署所谓'维和部队'"
+            }
+        },
+        {
+            "entityId": "entity_uuid_56ac5146-9d34-452a-b494-3a6e4e9fb3c8",
+            "entityName": "欧洲国家",
+            "entityOntologyName": "国家",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_fbf1f4c0-140e-41ee-a4fd-920a90b4c6f9",
+            "entityName": "扎哈罗娃",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "俄罗斯外交部发言人"
+            }
+        },
+        {
+            "entityId": "entity_uuid_9eada192-0f67-45df-8a5d-1f9502b23be0",
+            "entityName": "特朗普",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "美国总统"
+            }
+        },
+        {
+            "entityId": "entity_uuid_2898cfa9-226d-493c-ab28-cf20090b97a3",
+            "entityName": "海军陆战队第810旅",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "context": "海军陆战队第810旅可能正是在这个地段越过了边界"
+            }
+        },
+        {
+            "entityId": "entity_uuid_2a934178-1673-43c7-ab69-8fa4bd6cad67",
+            "entityName": "军事专家尤里·波多利亚卡",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "context": "军事专家尤里·波多利亚卡认为，俄军对苏贾的包围将意味着库尔斯克州乌军末日的到来"
+            }
+        },
+        {
+            "entityId": "entity_uuid_14570d3e-a496-4695-b82c-07c28fe973c1",
+            "entityName": "军事专家阿列克谢·列昂科夫",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "context": "军事专家阿列克谢·列昂科夫认为，俄军对苏贾的包围将意味着库尔斯克州乌军末日的到来"
+            }
+        },
+        {
+            "entityId": "entity_uuid_164461e6-5692-400d-8956-d4d6355b9f18",
+            "entityName": "苏梅州",
+            "entityOntologyName": "地理区域",
+            "attributes": {
+                "context": "俄军越过边界进入苏梅州"
+            }
+        },
+        {
+            "entityId": "entity_uuid_aa5fe27b-39ac-4ccc-ba2e-10285a812989",
+            "entityName": "库尔斯克州",
+            "entityOntologyName": "地理区域",
+            "attributes": {
+                "context": "库尔斯克州乌军末日的到来"
+            }
+        },
+        {
+            "entityId": "entity_uuid_40c2b93c-ab83-4602-be90-561b16d90dd9",
+            "entityName": "俄罗斯国防部",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "action": "宣布从赫尔松部分地区撤出部队",
+                "destination": "第聂伯河东岸地带"
+            }
+        },
+        {
+            "entityId": "entity_uuid_9a53a220-35f5-4256-99d1-7a03f33c1501",
+            "entityName": "卢卡申科",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职务": "白俄罗斯总统"
+            }
+        },
+        {
+            "entityId": "entity_uuid_6afb262f-aba7-4013-99f9-de1f14e92651",
+            "entityName": "白俄罗斯",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_f77c06ff-d197-4770-b914-54063d8557a2",
+            "entityName": "条约",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "内容": "顿涅茨克、卢甘斯克、扎波罗热、赫尔松四个地区加入俄罗斯"
+            }
+        },
+        {
+            "entityId": "entity_uuid_643681c6-e3c0-4b68-8a86-af9458862a15",
+            "entityName": "顿涅茨克",
+            "entityOntologyName": "地理区域",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_201dcb10-2c51-49c4-8ccd-8cd0242b4903",
+            "entityName": "卢甘斯克",
+            "entityOntologyName": "地理区域",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_3de29d12-88fb-46d4-86cb-a5386327dde4",
+            "entityName": "扎波罗热",
+            "entityOntologyName": "地理区域",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_8faefc62-f3d1-405a-98e0-07f4f62e9954",
+            "entityName": "赫尔松",
+            "entityOntologyName": "地理区域",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_1c769733-ebe1-4d49-86ec-ca7f1c937ce3",
+            "entityName": "佩斯科夫",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职务": "俄罗斯总统新闻秘书"
+            }
+        },
+        {
+            "entityId": "entity_uuid_1662d0ee-53a0-4bb3-b307-ba2b00475146",
+            "entityName": "俄罗斯总统新闻秘书处",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_fcb8e98e-7d30-4a17-9cdf-cb7458627e5b",
+            "entityName": "库拉霍沃市",
+            "entityOntologyName": "地理区域",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_85c1db01-3371-4503-87c9-cc42e58da615",
+            "entityName": "乌克兰武装部队总参谋部",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "战况信息": "击退俄军27次进攻"
+            }
+        },
+        {
+            "entityId": "entity_uuid_9d9e5823-aec2-413c-b551-41a02e2a19bb",
+            "entityName": "谢尔盖·鲁茨科伊",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "俄罗斯武装力量总参谋部第一副总参谋长兼作战总局局长"
+            }
+        },
+        {
+            "entityId": "entity_uuid_8c203120-3e1d-4d27-ac30-07b677c40658",
+            "entityName": "俄罗斯武装力量总参谋部",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_8c76be80-a003-4909-885d-236f3154680a",
+            "entityName": "顿涅茨克人民共和国",
+            "entityOntologyName": "地理区域",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_73e33c80-fde2-4d8d-9f07-dd8e29538749",
+            "entityName": "扎波罗热州",
+            "entityOntologyName": "地理区域",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_d9c73711-2791-4504-9852-efd36ac4b5d6",
+            "entityName": "卢甘斯克人民共和国",
+            "entityOntologyName": "地理区域",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_6a538185-311e-4f88-84dd-0f32f1d54165",
+            "entityName": "冯德莱恩",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "宣言": "欧盟将为乌克兰提供35亿欧元援助"
+            }
+        },
+        {
+            "entityId": "entity_uuid_24a7d855-9d7c-435f-970c-ec5f10f733f1",
+            "entityName": "普里戈任",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "描述": "瓦格纳组织创始人"
+            }
+        },
+        {
+            "entityId": "entity_uuid_ebd42acc-4d65-46da-9e94-634fb5854bdd",
+            "entityName": "俄罗斯武装力量",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "描述": "现役部队"
+            }
+        },
+        {
+            "entityId": "entity_uuid_f93dccc2-6020-4cba-ac29-28d6aa5d3d09",
+            "entityName": "瓦格纳集团",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "描述": "雇佣兵组织"
+            }
+        },
+        {
+            "entityId": "entity_uuid_370a0d17-0ba0-424f-b0cc-75e88181cf7f",
+            "entityName": "俄罗斯国防部长绍伊古",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "描述": "安全部门负责人之一"
+            }
+        },
+        {
+            "entityId": "entity_uuid_dec9ef58-2bc5-40e9-8231-e0baf33286a7",
+            "entityName": "俄罗斯内务部长科洛科利采夫",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "描述": "安全部门负责人之一"
+            }
+        },
+        {
+            "entityId": "entity_uuid_988e45c6-1124-43d2-ad5e-fdcb274fd473",
+            "entityName": "联邦安全局局长博尔特尼科夫",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "描述": "安全部门负责人之一"
+            }
+        },
+        {
+            "entityId": "entity_uuid_f73c31ac-1f6b-4926-ac6a-42a6f00f96a5",
+            "entityName": "美国智库战争研究所（ISW）",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "结论": "俄军已收复库尔斯克地区46%的领土"
+            }
+        },
+        {
+            "entityId": "entity_uuid_c278e911-bc7d-46c6-abca-92e693e95675",
+            "entityName": "库尔斯克地区",
+            "entityOntologyName": "地理区域",
+            "attributes": {
+                "控制情况": "46%的领土已被俄罗斯收复"
+            }
+        },
+        {
+            "entityId": "entity_uuid_b2864cde-5731-4012-8fe1-5d4d231f3281",
+            "entityName": "阿劳季诺夫",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "俄罗斯车臣‘艾哈迈德’特种部队指挥官"
+            }
+        },
+        {
+            "entityId": "entity_uuid_4fe3fd7b-86c7-466e-bf93-1723c5533786",
+            "entityName": "俄罗斯车臣‘艾哈迈德’特种部队",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_6827f5b4-37b7-4b18-93e5-c359e474fcd0",
+            "entityName": "顿巴斯前线",
+            "entityOntologyName": "地理区域",
+            "attributes": {
+                "控制情况": "控制了托列茨克的三分之二"
+            }
+        },
+        {
+            "entityId": "entity_uuid_8a1af5c2-f1c3-4852-9d4f-6680d459f90a",
+            "entityName": "俄罗斯联邦安全局",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "职能": "进行刑事立案"
+            }
+        },
+        {
+            "entityId": "entity_uuid_5fe328c3-2f30-421a-80ea-7735a268fb9d",
+            "entityName": "瓦格纳雇佣兵公司",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_a514b5a3-621c-4147-8a20-a43c3e0921bf",
+            "entityName": "克里姆林宫",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "属性名1": "俄罗斯总统官邸"
+            }
+        },
+        {
+            "entityId": "entity_uuid_112168dd-7998-4207-a3cf-0dd2917807c4",
+            "entityName": "斯塔默",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "属性名1": "英国首相",
+                "属性名2": "愿意派遣英国军队进驻乌克兰"
+            }
+        },
+        {
+            "entityId": "entity_uuid_f8284ab0-d661-4d37-a162-badab05b0ce1",
+            "entityName": "英国政府",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "属性名1": "英国政府"
+            }
+        },
+        {
+            "entityId": "entity_uuid_fae2a343-3dfd-4177-9b86-1a842bbb4302",
+            "entityName": "美利坚合众国",
+            "entityOntologyName": "国家",
+            "attributes": {
+                "支持对象": "乌克兰",
+                "提供支持形式": "财政和物资"
+            }
+        },
+        {
+            "entityId": "entity_uuid_2e10c070-7771-4c69-b6a1-1217960aa5fc",
+            "entityName": "重建投资基金",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "管理方": "乌克兰政府和美利坚合众国政府代表"
+            }
+        },
+        {
+            "entityId": "entity_uuid_4f3f0461-f8ac-4253-9e73-4394e4ced826",
+            "entityName": "特别军事行动",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "目的": "实现乌克兰的去军事化",
+                "区域": "乌克兰东部顿巴斯地区"
+            }
+        },
+        {
+            "entityId": "entity_uuid_f3c66275-73da-4850-a3fe-58d40f04e20d",
+            "entityName": "白宫",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_f0f0ff15-14ca-4c1a-a7d7-9b2202036220",
+            "entityName": "美国国家安全委员会",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_ec9ea72b-6ade-45da-8ce0-400b56f15806",
+            "entityName": "马克龙",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "法国总统"
+            }
+        },
+        {
+            "entityId": "entity_uuid_80d9a29b-c101-4108-a40e-295c842aa57e",
+            "entityName": "俄罗斯军队",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "行动": "被部署到顿巴斯执行维和行动"
+            }
+        },
+        {
+            "entityId": "entity_uuid_0678239a-f044-47ca-9e50-7fdd3565d0e5",
+            "entityName": "乌克兰军队",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "防御权利": "保留单独和集体防御的权利"
+            }
+        },
+        {
+            "entityId": "entity_uuid_c7f4969e-af92-42dd-a060-00d02710e200",
+            "entityName": "俄外交部",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "活动": "就对外关系等相关问题举行会议"
+            }
+        },
+        {
+            "entityId": "entity_uuid_ded0255e-5c32-4822-a4d1-f977c7f9840a",
+            "entityName": "拜登",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "角色": "美国总统",
+                "行为": "授权乌克兰使用美国提供的远程导弹打击俄罗斯本土区域",
+                "事件时间": "本周早些时候"
+            }
+        },
+        {
+            "entityId": "entity_uuid_62bf7a92-f6e8-47af-aeab-772db3790f65",
+            "entityName": "联邦安全局委员会",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "活动": "年度会议"
+            }
+        },
+        {
+            "entityId": "entity_uuid_606ac858-a9b7-4e12-827c-d8031a86fb65",
+            "entityName": "利雅得",
+            "entityOntologyName": "地理区域",
+            "attributes": {
+                "地位": "沙特阿拉伯首都"
+            }
+        },
+        {
+            "entityId": "entity_uuid_46c688ef-63d8-4dfc-9423-b02918e4471a",
+            "entityName": "土耳其",
+            "entityOntologyName": "地理区域",
+            "attributes": {
+                "城市": "伊斯坦布尔"
+            }
+        },
+        {
+            "entityId": "entity_uuid_1536e057-ce7b-4232-97f6-22397091751c",
+            "entityName": "伊斯坦布尔",
+            "entityOntologyName": "地理区域",
+            "attributes": {
+                "活动": "闭门会谈"
+            }
+        },
+        {
+            "entityId": "entity_uuid_57345ada-64e2-462e-a2af-812a78c1cb0a",
+            "entityName": "摩尔多瓦",
+            "entityOntologyName": "国家",
+            "attributes": {
+                "申请入盟时间": "2022年6月",
+                "条件": "需要完成改革，达到政治、经济、人权、司法等标准"
+            }
+        },
+        {
+            "entityId": "entity_uuid_88db3193-64f4-4d64-b13e-0e3153145cc5",
+            "entityName": "北马其顿",
+            "entityOntologyName": "国家",
+            "attributes": {
+                "候选国加入时间": "2005年",
+                "入盟谈判时间": "十几年,甚至几十年"
+            }
+        },
+        {
+            "entityId": "entity_uuid_c42cedbc-e85d-4f55-a731-b6c9c1d302e5",
+            "entityName": "黑山",
+            "entityOntologyName": "国家",
+            "attributes": {
+                "候选国加入时间": "2010年",
+                "入盟谈判时间": "十几年,甚至几十年"
+            }
+        },
+        {
+            "entityId": "entity_uuid_d1ab899b-90a9-4332-aaaa-12252816e08e",
+            "entityName": "法国前总统萨科齐",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "观点": "乌克兰加入欧盟是‘违反常理的’，扩大会带来危险"
+            }
+        },
+        {
+            "entityId": "entity_uuid_75323e91-9b65-4087-9ebd-6c1ec6fea3fe",
+            "entityName": "俄独联体国家研究所副所长扎里欣",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "观点": "欧盟开启与乌克兰的入盟谈判只是公关行为"
+            }
+        },
+        {
+            "entityId": "entity_uuid_75e43e4f-13c2-44ba-b300-fa9cae19bd1b",
+            "entityName": "米歇尔",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "position": "欧洲理事会主席"
+            }
+        },
+        {
+            "entityId": "entity_uuid_7590b584-fc97-46b8-badd-d81b3bd053a2",
+            "entityName": "欧洲理事会",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "action": "宣布乌克兰成为欧盟候选国"
+            }
+        },
+        {
+            "entityId": "entity_uuid_f06ae928-56e7-4314-a827-5af37959a61b",
+            "entityName": "达沃斯经济论坛",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "活动类型": "参加"
+            }
+        },
+        {
+            "entityId": "entity_uuid_a51e138e-3a53-4781-b3cf-19a7ad4d07ef",
+            "entityName": "美国政府",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_ad2ff40f-09a0-4cde-8f1d-32f28528b505",
+            "entityName": "沙特",
+            "entityOntologyName": "国家",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_0774e4a3-d31f-49ad-90d7-e0e1856146e0",
+            "entityName": "基辅",
+            "entityOntologyName": "地理区域",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_a8076426-76d6-4c3b-bc79-af5f88496d2e",
+            "entityName": "斯科特·贝森特",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "美国财政部长"
+            }
+        },
+        {
+            "entityId": "entity_uuid_816b1266-272f-4308-97ad-1357e8299d8d",
+            "entityName": "梅德韦杰夫",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职务": "俄罗斯安全会议副主席"
+            }
+        },
+        {
+            "entityId": "entity_uuid_d37af0c7-a1fa-4fdc-931d-c71e5f5ef4c1",
+            "entityName": "奥克萨娜·马尔卡罗娃",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "乌克兰驻美大使"
+            }
+        },
+        {
+            "entityId": "entity_uuid_92158e37-abdb-4b08-9ee5-5ef3554611be",
+            "entityName": "俄罗斯政府",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "职能": "政府机构"
+            }
+        },
+        {
+            "entityId": "entity_uuid_61cdf078-e5c7-405d-83f4-bbba62400c64",
+            "entityName": "叶夫根尼·维克托罗维奇·普里戈任",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "瓦格纳集团的领导人",
+                "称号": "俄罗斯英雄",
+                "身份": "祖国的真正爱国者",
+                "事件": "死于坠机事故"
+            }
+        },
+        {
+            "entityId": "entity_uuid_0da93951-52ca-4453-840d-669f940003ec",
+            "entityName": "卡罗琳·莱维特",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "白宫新闻秘书"
+            }
+        },
+        {
+            "entityId": "entity_uuid_762fecd0-9b11-44af-8368-a4e00346adcd",
+            "entityName": "美国中央情报局（CIA）",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        },
+        {
+            "entityId": "entity_uuid_ba80090b-3dc7-4eba-986f-c25d69f52e15",
+            "entityName": "拉特克利夫",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职位": "美国中央情报局局长"
+            }
+        },
+        {
+            "entityId": "entity_uuid_31cbe3a1-f5ac-45e9-9f79-f41381453904",
+            "entityName": "俄内务部",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "发布消息": "决定通缉泽连斯基"
+            }
+        },
+        {
+            "entityId": "entity_uuid_1ad60cb0-8ee0-4789-9ac8-e1135204afff",
+            "entityName": "万斯",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "职务": "美国副总统"
+            }
+        },
+        {
+            "entityId": "entity_uuid_d98dca61-dfca-4e7e-a8aa-682a2d36f4e3",
+            "entityName": "福克斯新闻",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "提及内容": "福克斯新闻播出的对美国副总统万斯的采访"
+            }
+        },
+        {
+            "entityId": "entity_uuid_7a066102-f36b-4bcf-bae8-ed0de4d116ec",
+            "entityName": "联合国",
+            "entityOntologyName": "国家",
+            "attributes": {
+                "决议内容": "不承认顿涅茨克、卢甘斯克、扎波罗热、赫尔松4个地区公投结果"
+            }
+        },
+        {
+            "entityId": "entity_uuid_edcdb114-f03b-4b7c-8391-00d1a8b45b74",
+            "entityName": "联大",
+            "entityOntologyName": "机构",
+            "attributes": {
+                "决议内容": "不承认顿涅茨克、卢甘斯克、扎波罗热、赫尔松4个地区公投结果"
+            }
+        },
+        {
+            "entityId": "entity_uuid_e695af5a-db3a-49bb-8f07-1c9d990e23ba",
+            "entityName": "涅边贾",
+            "entityOntologyName": "人员",
+            "attributes": {
+                "身份": "俄常驻联合国代表"
+            }
+        },
+        {
+            "entityId": "entity_uuid_e16e7358-cec7-4a7d-8114-be60d78c5069",
+            "entityName": "俄常驻联合国代表处",
+            "entityOntologyName": "机构",
+            "attributes": {}
+        }
+    ],
+    "relations": [
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "7f33170a-f372-4a70-a956-5342f05da6d3",
+            "relationName": "冲突"
+        },
+        {
+            "headEntityId": "entity_uuid_0683681c-8da7-4528-8fe5-eb2903dd8f68",
+            "tailEntityId": "entity_uuid_d0b31e58-0bd8-46fc-b963-d7245b7865ac",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_d0b31e58-0bd8-46fc-b963-d7245b7865ac",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_d6185953-28aa-4aba-90ce-fb1a3f1c309f",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "25fc72c3-932b-4ed8-983e-c17f04ce2813",
+            "relationName": "隶属"
+        },
+        {
+            "headEntityId": "entity_uuid_3c769cd6-d4b8-4ba9-9b98-122040188b03",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "25fc72c3-932b-4ed8-983e-c17f04ce2813",
+            "relationName": "隶属"
+        },
+        {
+            "headEntityId": "entity_uuid_d4aa2812-acec-4942-8d60-868ad87ec330",
+            "tailEntityId": "entity_uuid_6d8fb2f1-29df-401f-9b66-75ff52a9cd40",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "7f33170a-f372-4a70-a956-5342f05da6d3",
+            "relationName": "冲突"
+        },
+        {
+            "headEntityId": "entity_uuid_89520ec3-1875-4066-92cc-b4bb32cb0e72",
+            "tailEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "relationId": "edb5d991-2165-420e-a497-6889fe1c3a67",
+            "relationName": "合作"
+        },
+        {
+            "headEntityId": "entity_uuid_ed28efa4-2b53-43c9-b19f-15ce7772bdeb",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "7f33170a-f372-4a70-a956-5342f05da6d3",
+            "relationName": "冲突"
+        },
+        {
+            "headEntityId": "entity_uuid_e7f54056-baf0-48ed-863d-0ecb5f038af7",
+            "tailEntityId": "entity_uuid_338df9f4-5bb3-445e-bf5b-d6bbac97822a",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "tailEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "relationId": "7f33170a-f372-4a70-a956-5342f05da6d3",
+            "relationName": "冲突"
+        },
+        {
+            "headEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "tailEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "relationId": "edb5d991-2165-420e-a497-6889fe1c3a67",
+            "relationName": "合作"
+        },
+        {
+            "headEntityId": "entity_uuid_658f1bb3-9c2f-44d1-9cab-128172d66328",
+            "tailEntityId": "entity_uuid_8ec6d600-c1e1-46d9-a7d4-ed4e46165f09",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_658f1bb3-9c2f-44d1-9cab-128172d66328",
+            "tailEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "relationId": "edb5d991-2165-420e-a497-6889fe1c3a67",
+            "relationName": "合作"
+        },
+        {
+            "headEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "tailEntityId": "entity_uuid_658f1bb3-9c2f-44d1-9cab-128172d66328",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_221a0442-9719-4c98-9814-7e50cff3c577",
+            "tailEntityId": "entity_uuid_dc41e051-ab72-4a7e-88f6-30889dbd3a76",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_e47b6052-7aa1-4edf-ab37-d9d6d2c0e7b0",
+            "tailEntityId": "entity_uuid_dc41e051-ab72-4a7e-88f6-30889dbd3a76",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_dc41e051-ab72-4a7e-88f6-30889dbd3a76",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "tailEntityId": "entity_uuid_8314d955-18b1-452c-bb18-20fb6f63914a",
+            "relationId": "7f33170a-f372-4a70-a956-5342f05da6d3",
+            "relationName": "冲突"
+        },
+        {
+            "headEntityId": "entity_uuid_1bb300a0-0dfa-445f-b6c5-b2ff91437bd6",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_905bf9cf-28e7-408d-af92-fd5d0bd75b9a",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "7f33170a-f372-4a70-a956-5342f05da6d3",
+            "relationName": "冲突"
+        },
+        {
+            "headEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "134e2d88-f646-4089-a4af-b6e93ed89356",
+            "relationName": "资助"
+        },
+        {
+            "headEntityId": "entity_uuid_4bdfea9c-89a7-4072-8bee-3935fca08149",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_d5a761f6-8d35-4099-9278-d99befd058d4",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_142d5eaf-acf4-401f-ae3f-754cae741933",
+            "tailEntityId": "entity_uuid_2b02ab0c-6d5b-402b-8cf1-6658714fd6c2",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_e4802682-af04-4173-adcc-3c64f6dd40da",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_811de30a-c456-411f-90c1-fe25fa328ad0",
+            "tailEntityId": "entity_uuid_befb6175-654c-4b70-9d16-032b10ddf8ea",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_eec94d71-7c63-46cf-9ad8-45e70a56bf44",
+            "tailEntityId": "entity_uuid_db4ad2d3-78b5-4073-9285-8bfa4b38a726",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "cd4e16cb-2a80-46d0-acce-2f73469df06c",
+            "relationName": "竞争"
+        },
+        {
+            "headEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "tailEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "relationId": "03b8130d-ea5a-4f72-867d-020e19ebc65b",
+            "relationName": "贸易"
+        },
+        {
+            "headEntityId": "entity_uuid_658f1bb3-9c2f-44d1-9cab-128172d66328",
+            "tailEntityId": "entity_uuid_a8e03ee0-0970-46de-8967-d208100ad9ae",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_c2474fce-9811-4ea1-9ce6-4817065e4341",
+            "tailEntityId": "entity_uuid_598a478d-93a3-4d81-a3c5-5e34782543da",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_142d5eaf-acf4-401f-ae3f-754cae741933",
+            "tailEntityId": "entity_uuid_c2474fce-9811-4ea1-9ce6-4817065e4341",
+            "relationId": "edb5d991-2165-420e-a497-6889fe1c3a67",
+            "relationName": "合作"
+        },
+        {
+            "headEntityId": "entity_uuid_804dc968-1636-4bfa-b2a6-962b7fc4925b",
+            "tailEntityId": "entity_uuid_2329c6ec-a102-47c8-9ad2-3f266353645c",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_60cce357-2b38-402d-8a28-fcd16fe2e829",
+            "tailEntityId": "entity_uuid_d4506e89-f705-4866-8933-70cb76cdc269",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_354dacf9-788a-4392-b1d6-9f32716291fa",
+            "tailEntityId": "entity_uuid_1bb300a0-0dfa-445f-b6c5-b2ff91437bd6",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_d5a761f6-8d35-4099-9278-d99befd058d4",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_a66e2dde-5508-48c4-8896-5c9a7bc23227",
+            "tailEntityId": "entity_uuid_eaf21ea3-0856-4281-affe-45446ec4bec6",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_66e5ece1-9a38-4cc1-ab21-1cb52cab8b14",
+            "tailEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "relationId": "7f33170a-f372-4a70-a956-5342f05da6d3",
+            "relationName": "冲突"
+        },
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_983b5442-0408-47c0-81d1-c14a0cb10677",
+            "relationId": "7f33170a-f372-4a70-a956-5342f05da6d3",
+            "relationName": "冲突"
+        },
+        {
+            "headEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "tailEntityId": "entity_uuid_983b5442-0408-47c0-81d1-c14a0cb10677",
+            "relationId": "7f33170a-f372-4a70-a956-5342f05da6d3",
+            "relationName": "冲突"
+        },
+        {
+            "headEntityId": "entity_uuid_c0306f80-7e3b-434e-8c04-c561a05ae025",
+            "tailEntityId": "entity_uuid_685d6ce7-7384-422f-ad1c-03aa5ed412a6",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_772161e3-873f-4f5c-b520-6488bd60d97b",
+            "tailEntityId": "entity_uuid_5962e4c6-928e-4f73-89ca-1b5b8dfa1f91",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_bc10f1de-3e66-4ed2-b5f3-b2e439e7334e",
+            "tailEntityId": "entity_uuid_b9915c7d-4792-4b3b-b644-151528ece6e8",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_354dacf9-788a-4392-b1d6-9f32716291fa",
+            "tailEntityId": "entity_uuid_1bb300a0-0dfa-445f-b6c5-b2ff91437bd6",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "tailEntityId": "entity_uuid_3c4b8f35-a75b-4c05-909b-da74252e73a1",
+            "relationId": "7f33170a-f372-4a70-a956-5342f05da6d3",
+            "relationName": "冲突"
+        },
+        {
+            "headEntityId": "entity_uuid_7a37a20d-0cc3-495d-bac5-30e1f8651270",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_5bf0c05f-2e80-4e58-a614-6377f08b92ed",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_84852557-3214-408c-8893-738224f6dd7c",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_dc41e051-ab72-4a7e-88f6-30889dbd3a76",
+            "tailEntityId": "entity_uuid_990167e8-0073-4853-8a39-37a50bcebf07",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_392537a1-5dc7-4996-b33d-55d1b5958060",
+            "tailEntityId": "entity_uuid_0f281497-1101-4d3c-bb17-5477567da25b",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_c9da65d3-9610-4a05-a865-9f1662e5e5c0",
+            "tailEntityId": "entity_uuid_f26aed4c-555c-4a93-8b39-2d931cfb30b9",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_acbca798-964c-462f-a20c-95968fbca42c",
+            "tailEntityId": "entity_uuid_f26aed4c-555c-4a93-8b39-2d931cfb30b9",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_6470003d-5c62-4cf5-9492-d9750cbceaff",
+            "relationId": "7f33170a-f372-4a70-a956-5342f05da6d3",
+            "relationName": "冲突"
+        },
+        {
+            "headEntityId": "entity_uuid_fbf1f4c0-140e-41ee-a4fd-920a90b4c6f9",
+            "tailEntityId": "entity_uuid_f26aed4c-555c-4a93-8b39-2d931cfb30b9",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_5bf0c05f-2e80-4e58-a614-6377f08b92ed",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_9eada192-0f67-45df-8a5d-1f9502b23be0",
+            "tailEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_990167e8-0073-4853-8a39-37a50bcebf07",
+            "tailEntityId": "entity_uuid_4bdfea9c-89a7-4072-8bee-3935fca08149",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_2898cfa9-226d-493c-ab28-cf20090b97a3",
+            "tailEntityId": "entity_uuid_990167e8-0073-4853-8a39-37a50bcebf07",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_2a934178-1673-43c7-ab69-8fa4bd6cad67",
+            "tailEntityId": "entity_uuid_990167e8-0073-4853-8a39-37a50bcebf07",
+            "relationId": "edb5d991-2165-420e-a497-6889fe1c3a67",
+            "relationName": "合作"
+        },
+        {
+            "headEntityId": "entity_uuid_14570d3e-a496-4695-b82c-07c28fe973c1",
+            "tailEntityId": "entity_uuid_990167e8-0073-4853-8a39-37a50bcebf07",
+            "relationId": "edb5d991-2165-420e-a497-6889fe1c3a67",
+            "relationName": "合作"
+        },
+        {
+            "headEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "tailEntityId": "entity_uuid_990167e8-0073-4853-8a39-37a50bcebf07",
+            "relationId": "7f33170a-f372-4a70-a956-5342f05da6d3",
+            "relationName": "冲突"
+        },
+        {
+            "headEntityId": "entity_uuid_40c2b93c-ab83-4602-be90-561b16d90dd9",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_40c2b93c-ab83-4602-be90-561b16d90dd9",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_9a53a220-35f5-4256-99d1-7a03f33c1501",
+            "tailEntityId": "entity_uuid_6afb262f-aba7-4013-99f9-de1f14e92651",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_9eada192-0f67-45df-8a5d-1f9502b23be0",
+            "tailEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_1c769733-ebe1-4d49-86ec-ca7f1c937ce3",
+            "tailEntityId": "entity_uuid_1662d0ee-53a0-4bb3-b307-ba2b00475146",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_1c769733-ebe1-4d49-86ec-ca7f1c937ce3",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "relationId": "03b8130d-ea5a-4f72-867d-020e19ebc65b",
+            "relationName": "贸易"
+        },
+        {
+            "headEntityId": "entity_uuid_4bdfea9c-89a7-4072-8bee-3935fca08149",
+            "tailEntityId": "entity_uuid_d5a761f6-8d35-4099-9278-d99befd058d4",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_85c1db01-3371-4503-87c9-cc42e58da615",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_9d9e5823-aec2-413c-b551-41a02e2a19bb",
+            "tailEntityId": "entity_uuid_8c203120-3e1d-4d27-ac30-07b677c40658",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_8c76be80-a003-4909-885d-236f3154680a",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "25fc72c3-932b-4ed8-983e-c17f04ce2813",
+            "relationName": "隶属"
+        },
+        {
+            "headEntityId": "entity_uuid_73e33c80-fde2-4d8d-9f07-dd8e29538749",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "25fc72c3-932b-4ed8-983e-c17f04ce2813",
+            "relationName": "隶属"
+        },
+        {
+            "headEntityId": "entity_uuid_d6185953-28aa-4aba-90ce-fb1a3f1c309f",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "25fc72c3-932b-4ed8-983e-c17f04ce2813",
+            "relationName": "隶属"
+        },
+        {
+            "headEntityId": "entity_uuid_d9c73711-2791-4504-9852-efd36ac4b5d6",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "25fc72c3-932b-4ed8-983e-c17f04ce2813",
+            "relationName": "隶属"
+        },
+        {
+            "headEntityId": "entity_uuid_aa5fe27b-39ac-4ccc-ba2e-10285a812989",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "25fc72c3-932b-4ed8-983e-c17f04ce2813",
+            "relationName": "隶属"
+        },
+        {
+            "headEntityId": "entity_uuid_9eada192-0f67-45df-8a5d-1f9502b23be0",
+            "tailEntityId": "entity_uuid_4bdfea9c-89a7-4072-8bee-3935fca08149",
+            "relationId": "edb5d991-2165-420e-a497-6889fe1c3a67",
+            "relationName": "合作"
+        },
+        {
+            "headEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "647b9d11-b2c4-457f-bedc-5bef35784509",
+            "relationName": "盟友"
+        },
+        {
+            "headEntityId": "entity_uuid_4bdfea9c-89a7-4072-8bee-3935fca08149",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "edb5d991-2165-420e-a497-6889fe1c3a67",
+            "relationName": "合作"
+        },
+        {
+            "headEntityId": "entity_uuid_d5a761f6-8d35-4099-9278-d99befd058d4",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_6a538185-311e-4f88-84dd-0f32f1d54165",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "134e2d88-f646-4089-a4af-b6e93ed89356",
+            "relationName": "资助"
+        },
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_ebd42acc-4d65-46da-9e94-634fb5854bdd",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_f93dccc2-6020-4cba-ac29-28d6aa5d3d09",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_4bdfea9c-89a7-4072-8bee-3935fca08149",
+            "tailEntityId": "entity_uuid_370a0d17-0ba0-424f-b0cc-75e88181cf7f",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_4bdfea9c-89a7-4072-8bee-3935fca08149",
+            "tailEntityId": "entity_uuid_dec9ef58-2bc5-40e9-8231-e0baf33286a7",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_4bdfea9c-89a7-4072-8bee-3935fca08149",
+            "tailEntityId": "entity_uuid_988e45c6-1124-43d2-ad5e-fdcb274fd473",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_b2864cde-5731-4012-8fe1-5d4d231f3281",
+            "tailEntityId": "entity_uuid_4fe3fd7b-86c7-466e-bf93-1723c5533786",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_6827f5b4-37b7-4b18-93e5-c359e474fcd0",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_24a7d855-9d7c-435f-970c-ec5f10f733f1",
+            "tailEntityId": "entity_uuid_5fe328c3-2f30-421a-80ea-7735a268fb9d",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_24a7d855-9d7c-435f-970c-ec5f10f733f1",
+            "tailEntityId": "entity_uuid_40c2b93c-ab83-4602-be90-561b16d90dd9",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_4bdfea9c-89a7-4072-8bee-3935fca08149",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_89520ec3-1875-4066-92cc-b4bb32cb0e72",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_1c769733-ebe1-4d49-86ec-ca7f1c937ce3",
+            "tailEntityId": "entity_uuid_a514b5a3-621c-4147-8a20-a43c3e0921bf",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_112168dd-7998-4207-a3cf-0dd2917807c4",
+            "tailEntityId": "entity_uuid_f8284ab0-d661-4d37-a162-badab05b0ce1",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_1c769733-ebe1-4d49-86ec-ca7f1c937ce3",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "tailEntityId": "entity_uuid_9eada192-0f67-45df-8a5d-1f9502b23be0",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_fae2a343-3dfd-4177-9b86-1a842bbb4302",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "647b9d11-b2c4-457f-bedc-5bef35784509",
+            "relationName": "盟友"
+        },
+        {
+            "headEntityId": "entity_uuid_fae2a343-3dfd-4177-9b86-1a842bbb4302",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "03b8130d-ea5a-4f72-867d-020e19ebc65b",
+            "relationName": "贸易"
+        },
+        {
+            "headEntityId": "entity_uuid_2e10c070-7771-4c69-b6a1-1217960aa5fc",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "edb5d991-2165-420e-a497-6889fe1c3a67",
+            "relationName": "合作"
+        },
+        {
+            "headEntityId": "entity_uuid_2e10c070-7771-4c69-b6a1-1217960aa5fc",
+            "tailEntityId": "entity_uuid_fae2a343-3dfd-4177-9b86-1a842bbb4302",
+            "relationId": "edb5d991-2165-420e-a497-6889fe1c3a67",
+            "relationName": "合作"
+        },
+        {
+            "headEntityId": "entity_uuid_201dcb10-2c51-49c4-8ccd-8cd0242b4903",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "25fc72c3-932b-4ed8-983e-c17f04ce2813",
+            "relationName": "隶属"
+        },
+        {
+            "headEntityId": "entity_uuid_643681c6-e3c0-4b68-8a86-af9458862a15",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "25fc72c3-932b-4ed8-983e-c17f04ce2813",
+            "relationName": "隶属"
+        },
+        {
+            "headEntityId": "entity_uuid_3de29d12-88fb-46d4-86cb-a5386327dde4",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "25fc72c3-932b-4ed8-983e-c17f04ce2813",
+            "relationName": "隶属"
+        },
+        {
+            "headEntityId": "entity_uuid_8faefc62-f3d1-405a-98e0-07f4f62e9954",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "25fc72c3-932b-4ed8-983e-c17f04ce2813",
+            "relationName": "隶属"
+        },
+        {
+            "headEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "7f33170a-f372-4a70-a956-5342f05da6d3",
+            "relationName": "冲突"
+        },
+        {
+            "headEntityId": "entity_uuid_9eada192-0f67-45df-8a5d-1f9502b23be0",
+            "tailEntityId": "entity_uuid_f3c66275-73da-4850-a3fe-58d40f04e20d",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_9eada192-0f67-45df-8a5d-1f9502b23be0",
+            "tailEntityId": "entity_uuid_f0f0ff15-14ca-4c1a-a7d7-9b2202036220",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_ec9ea72b-6ade-45da-8ce0-400b56f15806",
+            "tailEntityId": "entity_uuid_9eada192-0f67-45df-8a5d-1f9502b23be0",
+            "relationId": "19b1e19a-fd9e-4225-a6a6-0b5957ad2336",
+            "relationName": "朋友"
+        },
+        {
+            "headEntityId": "entity_uuid_983b5442-0408-47c0-81d1-c14a0cb10677",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "7f33170a-f372-4a70-a956-5342f05da6d3",
+            "relationName": "冲突"
+        },
+        {
+            "headEntityId": "entity_uuid_4bdfea9c-89a7-4072-8bee-3935fca08149",
+            "tailEntityId": "entity_uuid_80d9a29b-c101-4108-a40e-295c842aa57e",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_d5a761f6-8d35-4099-9278-d99befd058d4",
+            "tailEntityId": "entity_uuid_0678239a-f044-47ca-9e50-7fdd3565d0e5",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_d5a761f6-8d35-4099-9278-d99befd058d4",
+            "tailEntityId": "entity_uuid_4bdfea9c-89a7-4072-8bee-3935fca08149",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_4bdfea9c-89a7-4072-8bee-3935fca08149",
+            "tailEntityId": "entity_uuid_c7f4969e-af92-42dd-a060-00d02710e200",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_4bdfea9c-89a7-4072-8bee-3935fca08149",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_5bf0c05f-2e80-4e58-a614-6377f08b92ed",
+            "relationId": "edb5d991-2165-420e-a497-6889fe1c3a67",
+            "relationName": "合作"
+        },
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_4bdfea9c-89a7-4072-8bee-3935fca08149",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_ded0255e-5c32-4822-a4d1-f977c7f9840a",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_4bdfea9c-89a7-4072-8bee-3935fca08149",
+            "tailEntityId": "entity_uuid_40c2b93c-ab83-4602-be90-561b16d90dd9",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "relationId": "edb5d991-2165-420e-a497-6889fe1c3a67",
+            "relationName": "合作"
+        },
+        {
+            "headEntityId": "entity_uuid_62bf7a92-f6e8-47af-aeab-772db3790f65",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_4bdfea9c-89a7-4072-8bee-3935fca08149",
+            "tailEntityId": "entity_uuid_62bf7a92-f6e8-47af-aeab-772db3790f65",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "cd4e16cb-2a80-46d0-acce-2f73469df06c",
+            "relationName": "竞争"
+        },
+        {
+            "headEntityId": "entity_uuid_b9915c7d-4792-4b3b-b644-151528ece6e8",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "647b9d11-b2c4-457f-bedc-5bef35784509",
+            "relationName": "盟友"
+        },
+        {
+            "headEntityId": "entity_uuid_b9915c7d-4792-4b3b-b644-151528ece6e8",
+            "tailEntityId": "entity_uuid_57345ada-64e2-462e-a2af-812a78c1cb0a",
+            "relationId": "647b9d11-b2c4-457f-bedc-5bef35784509",
+            "relationName": "盟友"
+        },
+        {
+            "headEntityId": "entity_uuid_b9915c7d-4792-4b3b-b644-151528ece6e8",
+            "tailEntityId": "entity_uuid_46c688ef-63d8-4dfc-9423-b02918e4471a",
+            "relationId": "647b9d11-b2c4-457f-bedc-5bef35784509",
+            "relationName": "盟友"
+        },
+        {
+            "headEntityId": "entity_uuid_b9915c7d-4792-4b3b-b644-151528ece6e8",
+            "tailEntityId": "entity_uuid_88db3193-64f4-4d64-b13e-0e3153145cc5",
+            "relationId": "647b9d11-b2c4-457f-bedc-5bef35784509",
+            "relationName": "盟友"
+        },
+        {
+            "headEntityId": "entity_uuid_b9915c7d-4792-4b3b-b644-151528ece6e8",
+            "tailEntityId": "entity_uuid_c42cedbc-e85d-4f55-a731-b6c9c1d302e5",
+            "relationId": "647b9d11-b2c4-457f-bedc-5bef35784509",
+            "relationName": "盟友"
+        },
+        {
+            "headEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "tailEntityId": "entity_uuid_b9915c7d-4792-4b3b-b644-151528ece6e8",
+            "relationId": "03b8130d-ea5a-4f72-867d-020e19ebc65b",
+            "relationName": "贸易"
+        },
+        {
+            "headEntityId": "entity_uuid_75e43e4f-13c2-44ba-b300-fa9cae19bd1b",
+            "tailEntityId": "entity_uuid_7590b584-fc97-46b8-badd-d81b3bd053a2",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_d5a761f6-8d35-4099-9278-d99befd058d4",
+            "tailEntityId": "entity_uuid_f06ae928-56e7-4314-a827-5af37959a61b",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_9eada192-0f67-45df-8a5d-1f9502b23be0",
+            "tailEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "relationId": "edb5d991-2165-420e-a497-6889fe1c3a67",
+            "relationName": "合作"
+        },
+        {
+            "headEntityId": "entity_uuid_d5a761f6-8d35-4099-9278-d99befd058d4",
+            "tailEntityId": "entity_uuid_9eada192-0f67-45df-8a5d-1f9502b23be0",
+            "relationId": "edb5d991-2165-420e-a497-6889fe1c3a67",
+            "relationName": "合作"
+        },
+        {
+            "headEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "tailEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "relationId": "647b9d11-b2c4-457f-bedc-5bef35784509",
+            "relationName": "盟友"
+        },
+        {
+            "headEntityId": "entity_uuid_66e5ece1-9a38-4cc1-ab21-1cb52cab8b14",
+            "tailEntityId": "entity_uuid_a51e138e-3a53-4781-b3cf-19a7ad4d07ef",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_ad2ff40f-09a0-4cde-8f1d-32f28528b505",
+            "tailEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "relationId": "03b8130d-ea5a-4f72-867d-020e19ebc65b",
+            "relationName": "贸易"
+        },
+        {
+            "headEntityId": "entity_uuid_ad2ff40f-09a0-4cde-8f1d-32f28528b505",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "03b8130d-ea5a-4f72-867d-020e19ebc65b",
+            "relationName": "贸易"
+        },
+        {
+            "headEntityId": "entity_uuid_d5a761f6-8d35-4099-9278-d99befd058d4",
+            "tailEntityId": "entity_uuid_0774e4a3-d31f-49ad-90d7-e0e1856146e0",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_a8076426-76d6-4c3b-bc79-af5f88496d2e",
+            "tailEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_a8076426-76d6-4c3b-bc79-af5f88496d2e",
+            "tailEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_d5a761f6-8d35-4099-9278-d99befd058d4",
+            "tailEntityId": "entity_uuid_9eada192-0f67-45df-8a5d-1f9502b23be0",
+            "relationId": "19b1e19a-fd9e-4225-a6a6-0b5957ad2336",
+            "relationName": "朋友"
+        },
+        {
+            "headEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "tailEntityId": "entity_uuid_b9915c7d-4792-4b3b-b644-151528ece6e8",
+            "relationId": "647b9d11-b2c4-457f-bedc-5bef35784509",
+            "relationName": "盟友"
+        },
+        {
+            "headEntityId": "entity_uuid_d5a761f6-8d35-4099-9278-d99befd058d4",
+            "tailEntityId": "entity_uuid_b9915c7d-4792-4b3b-b644-151528ece6e8",
+            "relationId": "edb5d991-2165-420e-a497-6889fe1c3a67",
+            "relationName": "合作"
+        },
+        {
+            "headEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "647b9d11-b2c4-457f-bedc-5bef35784509",
+            "relationName": "盟友"
+        },
+        {
+            "headEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "edb5d991-2165-420e-a497-6889fe1c3a67",
+            "relationName": "合作"
+        },
+        {
+            "headEntityId": "entity_uuid_9eada192-0f67-45df-8a5d-1f9502b23be0",
+            "tailEntityId": "entity_uuid_d5a761f6-8d35-4099-9278-d99befd058d4",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_816b1266-272f-4308-97ad-1357e8299d8d",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_fbf1f4c0-140e-41ee-a4fd-920a90b4c6f9",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_d37af0c7-a1fa-4fdc-931d-c71e5f5ef4c1",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_9eada192-0f67-45df-8a5d-1f9502b23be0",
+            "tailEntityId": "entity_uuid_a51e138e-3a53-4781-b3cf-19a7ad4d07ef",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_4bdfea9c-89a7-4072-8bee-3935fca08149",
+            "tailEntityId": "entity_uuid_92158e37-abdb-4b08-9ee5-5ef3554611be",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_d5a761f6-8d35-4099-9278-d99befd058d4",
+            "tailEntityId": "entity_uuid_8ec6d600-c1e1-46d9-a7d4-ed4e46165f09",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "03b8130d-ea5a-4f72-867d-020e19ebc65b",
+            "relationName": "贸易"
+        },
+        {
+            "headEntityId": "entity_uuid_61cdf078-e5c7-405d-83f4-bbba62400c64",
+            "tailEntityId": "entity_uuid_f93dccc2-6020-4cba-ac29-28d6aa5d3d09",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_61cdf078-e5c7-405d-83f4-bbba62400c64",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_f93dccc2-6020-4cba-ac29-28d6aa5d3d09",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "25fc72c3-932b-4ed8-983e-c17f04ce2813",
+            "relationName": "隶属"
+        },
+        {
+            "headEntityId": "entity_uuid_8a1af5c2-f1c3-4852-9d4f-6680d459f90a",
+            "tailEntityId": "entity_uuid_24a7d855-9d7c-435f-970c-ec5f10f733f1",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_84852557-3214-408c-8893-738224f6dd7c",
+            "tailEntityId": "entity_uuid_5fe328c3-2f30-421a-80ea-7735a268fb9d",
+            "relationId": "7f33170a-f372-4a70-a956-5342f05da6d3",
+            "relationName": "冲突"
+        },
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_5fe328c3-2f30-421a-80ea-7735a268fb9d",
+            "relationId": "7f33170a-f372-4a70-a956-5342f05da6d3",
+            "relationName": "冲突"
+        },
+        {
+            "headEntityId": "entity_uuid_24a7d855-9d7c-435f-970c-ec5f10f733f1",
+            "tailEntityId": "entity_uuid_5fe328c3-2f30-421a-80ea-7735a268fb9d",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_24a7d855-9d7c-435f-970c-ec5f10f733f1",
+            "tailEntityId": "entity_uuid_84852557-3214-408c-8893-738224f6dd7c",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_f3c66275-73da-4850-a3fe-58d40f04e20d",
+            "tailEntityId": "entity_uuid_0da93951-52ca-4453-840d-669f940003ec",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_c2474fce-9811-4ea1-9ce6-4817065e4341",
+            "tailEntityId": "entity_uuid_f0f0ff15-14ca-4c1a-a7d7-9b2202036220",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_762fecd0-9b11-44af-8368-a4e00346adcd",
+            "tailEntityId": "entity_uuid_ba80090b-3dc7-4eba-986f-c25d69f52e15",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_31cbe3a1-f5ac-45e9-9f79-f41381453904",
+            "tailEntityId": "entity_uuid_d5a761f6-8d35-4099-9278-d99befd058d4",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "tailEntityId": "entity_uuid_1ad60cb0-8ee0-4789-9ac8-e1135204afff",
+            "relationId": "351b52ab-9934-4457-b0b7-522bb4ff72ed",
+            "relationName": "领导"
+        },
+        {
+            "headEntityId": "entity_uuid_1ad60cb0-8ee0-4789-9ac8-e1135204afff",
+            "tailEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_1ad60cb0-8ee0-4789-9ac8-e1135204afff",
+            "tailEntityId": "entity_uuid_d98dca61-dfca-4e7e-a8aa-682a2d36f4e3",
+            "relationId": "edb5d991-2165-420e-a497-6889fe1c3a67",
+            "relationName": "合作"
+        },
+        {
+            "headEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "tailEntityId": "entity_uuid_fe14eedf-0ee3-437a-a64b-c77b8ea91d1d",
+            "relationId": "03b8130d-ea5a-4f72-867d-020e19ebc65b",
+            "relationName": "贸易"
+        },
+        {
+            "headEntityId": "entity_uuid_df869fab-c8ca-4827-bf0f-7ed9acfe52f4",
+            "tailEntityId": "entity_uuid_ad2ff40f-09a0-4cde-8f1d-32f28528b505",
+            "relationId": "edb5d991-2165-420e-a497-6889fe1c3a67",
+            "relationName": "合作"
+        },
+        {
+            "headEntityId": "entity_uuid_c2474fce-9811-4ea1-9ce6-4817065e4341",
+            "tailEntityId": "entity_uuid_f3c66275-73da-4850-a3fe-58d40f04e20d",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_7a066102-f36b-4bcf-bae8-ed0de4d116ec",
+            "relationId": "7f33170a-f372-4a70-a956-5342f05da6d3",
+            "relationName": "冲突"
+        },
+        {
+            "headEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "tailEntityId": "entity_uuid_edcdb114-f03b-4b7c-8391-00d1a8b45b74",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_e695af5a-db3a-49bb-8f07-1c9d990e23ba",
+            "tailEntityId": "entity_uuid_e16e7358-cec7-4a7d-8114-be60d78c5069",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_e695af5a-db3a-49bb-8f07-1c9d990e23ba",
+            "tailEntityId": "entity_uuid_edcdb114-f03b-4b7c-8391-00d1a8b45b74",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_7a066102-f36b-4bcf-bae8-ed0de4d116ec",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "106949f2-a9d2-4b54-a131-ece10fb61bc2",
+            "relationName": "对抗"
+        },
+        {
+            "headEntityId": "entity_uuid_643681c6-e3c0-4b68-8a86-af9458862a15",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_201dcb10-2c51-49c4-8ccd-8cd0242b4903",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_3de29d12-88fb-46d4-86cb-a5386327dde4",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        },
+        {
+            "headEntityId": "entity_uuid_8faefc62-f3d1-405a-98e0-07f4f62e9954",
+            "tailEntityId": "entity_uuid_2e60ec98-a238-461c-8bdc-666afc2421af",
+            "relationId": "fe2f1648-e837-465e-b5ed-d033ca0e86c1",
+            "relationName": "从属"
+        }
+    ]
+}

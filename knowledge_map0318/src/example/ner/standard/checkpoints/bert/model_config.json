@@ -1,0 +1,1 @@
+{"bert_model": "/home/iscas/data/wangzhenxing/code/DeepKE/example/ner/standard/model/bert-base-chinese", "do_lower": true, "max_seq_length": 128, "num_labels": 10, "label_map": {"1": "O", "2": "B-LOC", "3": "I-LOC", "4": "B-ORG", "5": "I-ORG", "6": "B-PER", "7": "I-PER", "8": "[CLS]", "9": "[SEP]"}}

@@ -1,0 +1,27 @@
+# python缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 虚拟环境
+env/
+venv/
+
+# git目录
+.git
+.gitignore
+
+# 日志和临时文件
+.DS_Store
+*.log
+
+
+__pycache__/
+.pytest_cache/
+.coverage
+*.egg-info/
+.hypothesis/
+.idea/
+.vscode/
